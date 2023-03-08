@@ -25,15 +25,9 @@
 
 # Autores
 
-* João Victor Pires
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* João Victor Pires - 32151608
+* Nicolly Scheitel Bessa - 32140606
+* Vinícius Fernandes Lopes Aguilar - 32120842 
 
 # Descrição do projeto
 
