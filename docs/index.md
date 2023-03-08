@@ -77,8 +77,10 @@ Link para melhor visualização: https://www.figma.com/file/rEjI8KOF81u6BTypFicx
 Para arquitetura do projeto, pretendemos utilizar para o front-end ReactJS com typescript, integrando ao back-end com Axios, NextJS e/ou Node. Para o banco de dados, utilizaremos o MongoDB ou o PostgreeSql.
 
 <h2>Diagrama de sequência</h2>
-![BPMN-atividade-04h (5)](https://user-images.githubusercontent.com/100202981/223603861-05aaa819-c87c-445b-9b9c-169ba525cdcf.png)
-![Diagrama em branco](https://user-images.githubusercontent.com/100202981/223603936-42e6f12b-32e0-45bd-8d60-bc769c65c82b.png)
+
+![BPMN-atividade-04h (5)](https://user-images.githubusercontent.com/100202981/223604265-3f2032f8-36eb-45f8-9c1a-dba665ca53a3.png)
+![Diagrama em branco](https://user-images.githubusercontent.com/100202981/223604291-c176f923-dc59-4e65-a87a-98637b8dceea.png)
+
 
 
 # Diagrama de implantação
