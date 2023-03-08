@@ -69,7 +69,8 @@ Link para melhor visualização: https://www.figma.com/file/rEjI8KOF81u6BTypFicx
 
 # Modelo de domínio
 
-*&lt;Modelo de domínio&gt;*
+![diagrama-de-atividades-bifurcacao (2)](https://user-images.githubusercontent.com/100202981/223596350-4d7d0060-2a9a-4a12-a9e4-7268fe525415.png)
+
 
 # Decisões de arquitetura
 
