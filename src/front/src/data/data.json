@@ -1,0 +1,56 @@
+[
+    {
+        "nome": "Cássio Ramos",
+        "email": "rogerio-ramos@email.com",
+        "turma": "3º Ano",
+        "materia": "Inglês"
+    },
+    {
+        "nome": "Fágner Lemos",
+        "email": "maria-lemos@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    },
+    {
+        "nome": "Fábio Santos",
+        "email": "fernanda-santos@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    },
+    {
+        "nome": "Fausto Vera",
+        "email": "diana-vera@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    },
+    {
+        "nome": "Renato Augusto",
+        "email": "marcelo-silva@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    },
+    {
+        "nome": "Fabian Balbuena",
+        "email": "dario-balbuena@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    },
+    {
+        "nome": "Adson Soares",
+        "email": "vinicius-soares@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    },
+    {
+        "nome": "Roger Guedes",
+        "email": "lucia-guedes@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    },
+    {
+        "nome": "Yuri Alberto",
+        "email": "pedro-souza@email.com",
+        "turma": "3º Ano",
+        "materia": ""
+    }
+]
